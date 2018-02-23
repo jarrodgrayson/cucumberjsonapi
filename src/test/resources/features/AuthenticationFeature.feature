@@ -6,4 +6,4 @@ Feature:AuthenticationFeature
     Given I have opened the application
     When I put in valid credentials
     And click login
-    Then I should see my personalized home page - Change
+    Then I should see my personalized home page - Change1
