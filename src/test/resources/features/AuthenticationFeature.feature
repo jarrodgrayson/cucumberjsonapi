@@ -12,3 +12,9 @@ Feature:AuthenticationFeature
     Given I am a kid who has an account
     When This is a new step
     Then This is a new step
+    
+  Scenario: This is for my live demo
+    Given I am a kid who has an account
+    When I do something new
+    Then This new thing should happen
+    
