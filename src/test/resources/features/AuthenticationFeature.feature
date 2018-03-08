@@ -18,3 +18,9 @@ Feature:AuthenticationFeature
     When I do something new
     Then This new thing should happen
     
+  Scenario: This is my newest cool scenario
+    Given I am doing this in my app
+    When I do action x and y
+    Then I should expect for this to happen
+    
+    
