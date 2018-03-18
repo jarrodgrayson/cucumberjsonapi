@@ -11,4 +11,4 @@ Feature:
 Scenario:
     Given I have a new scenario that I just created
     When I want to do something here
-    Then This should update VCS
+    Then This should update VCS - 1
