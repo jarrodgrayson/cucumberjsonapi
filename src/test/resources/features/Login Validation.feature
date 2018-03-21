@@ -17,4 +17,4 @@ Scenario:
 Scenario: This is Scenario X
   Given That I go do this
   When I am doing this in my app
-  Then this should happen - Change 1
+  Then this should happen - Change 2
