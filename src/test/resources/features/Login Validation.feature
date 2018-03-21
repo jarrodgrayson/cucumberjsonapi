@@ -18,3 +18,8 @@ Scenario: This is Scenario X
   Given That I go do this
   When I am doing this in my app
   Then this should happen - Change 2
+  
+Scenario:
+  Given i am a kid with an account
+  When I click log out
+  Then I am a logged in kid with an account balance greater than 0
