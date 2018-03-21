@@ -13,3 +13,8 @@ Scenario:
     When I want to do something here
     And i am a kid with an account
     Then This should update VCS - 5
+    
+Scenario: This is Scenario X
+  Given That I go do this
+  When I am doing this in my app
+  Then this should happen
