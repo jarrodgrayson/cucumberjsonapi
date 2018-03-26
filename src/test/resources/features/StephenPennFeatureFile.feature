@@ -5,4 +5,4 @@ Feature:
   Scenario:This is my new Scenario for Stephen
     Given that Stephen's Scenario Project is broken
     When I try and test if mine is still working
-    Then I should validate that it's not an issue with my project too 2
+    Then I should validate that it's not an issue with my project too 3
