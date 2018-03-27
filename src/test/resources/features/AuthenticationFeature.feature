@@ -23,4 +23,9 @@ Feature:AuthenticationFeature
     When I do action x and y
     Then I should expect for this to happen
     
+  Scenario: Dolby Test Scenario
+    Given i am logged in as a parent
+    When I select a new user
+    Then I should be prompted
+    
     
