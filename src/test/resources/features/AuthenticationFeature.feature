@@ -28,4 +28,10 @@ Feature:AuthenticationFeature
     When I select a new user
     Then I should be prompted
     
+  Scenario: Dolby Scenario 2
+    Given: I already laksdjflsakjdf
+    When: I put in valid credentials 
+    Then: When I prefrom adnflsadf
+    
+    
     
