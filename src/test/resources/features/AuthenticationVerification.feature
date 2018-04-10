@@ -9,3 +9,8 @@ Feature:AuthenticationVerification
     And I do a new step
     Then I should be promted with a pop-up message
     
+  Scenario: New Scenario Test
+    Given I do this
+    When I do that
+    Then this should happen
+    
