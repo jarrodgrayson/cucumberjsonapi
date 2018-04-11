@@ -14,3 +14,8 @@ Feature:AuthenticationVerification
     When I do that
     Then this should happen
     
+ Scenario: Newest scenario
+   Given I do this new cool thing
+   When I make an update
+   Then I click log out
+    
