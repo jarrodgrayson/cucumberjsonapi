@@ -8,14 +8,3 @@ Feature:AuthenticationVerification
     And i can deduct money from the child
     And I do a new step
     Then I should be promted with a pop-up message
-    
-  Scenario: New Scenario Test
-    Given I do this
-    When I do that
-    Then this should happen
-    
- Scenario: Newest scenario
-   Given I do this new cool thing
-   When I make an update
-   Then I click log out
-    
