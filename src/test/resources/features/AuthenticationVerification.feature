@@ -13,3 +13,8 @@ Feature:AuthenticationVerification
    Given that i do this
    When I do that
    Then this should happen
+   
+   Scenario: The newest scenario
+     Given when I am logged in as a kid
+     When I do this thing
+     Then this should happen
