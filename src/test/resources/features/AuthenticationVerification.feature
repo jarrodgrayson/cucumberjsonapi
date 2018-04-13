@@ -4,6 +4,6 @@ Feature:AuthenticationVerification
 
   Scenario:HappyPathLogin
     Given I am a kid who has an account
-    When I attempt to login with invalid credentials
+    When I click log out
     And i can deduct money from the child
-    Then I should be promted with a pop-up message
+    Then i should see my account balance
