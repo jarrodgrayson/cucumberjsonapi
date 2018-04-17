@@ -12,3 +12,8 @@ Feature:AuthenticationVerification
     Given I should be forced to the login screenx
     When I do this cool new thing
     Then I should be able to do that
+    
+  Scenario: lakdsjflkasdjf
+    Given: thalksdjfs
+    When: alksdjflksdjf
+    Then: alsdjflksajdf
