@@ -12,3 +12,7 @@ Feature: Kids spending money
     When kid logs in
     Then I should have a Spend Money Button
     
+  Scenario: This is my new scenario for Pam
+    Given that I am a logged in parent
+    When I do something new
+    Then This cool new thing should happen
