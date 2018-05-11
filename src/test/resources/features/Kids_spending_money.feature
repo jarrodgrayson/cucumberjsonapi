@@ -16,3 +16,8 @@ Feature: Kids spending money
     Given that I am a logged in parent
     When I do something new
     Then This cool new thing should happen
+    
+  Scenario: This is my coolest newest scenario
+    Given I click log out
+    When I do something new
+    Then this should happen automatically
