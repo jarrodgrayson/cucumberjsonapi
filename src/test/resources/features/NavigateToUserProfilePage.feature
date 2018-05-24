@@ -10,3 +10,8 @@ Feature:NavigateToUserProfilePage
     | EMPLOYEE         | Yes             |
     When I click the Save & Continue Button on the login page
     Then I see my user profile button at the top right of the Welcome page
+    
+ Scenario: This is my new Scenario for Boone
+   Given I click log out
+   When I do this new cool thing...
+   Then this new thing should magically happen
