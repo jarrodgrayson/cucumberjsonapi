@@ -19,4 +19,4 @@ Feature:NavigateToUserProfilePage
  Scenario: Worth's new Scenario
    Given I should be forced to the login screenx
    When I click log out
-   Then Worth does some new action
+   Then Worth does some new action!
