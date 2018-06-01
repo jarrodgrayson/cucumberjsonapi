@@ -15,3 +15,8 @@ Feature:NavigateToUserProfilePage
    Given I click log out
    When I do this new cool thing...
    Then this new thing should magically happen
+   
+ Scenario: Worth's new Scenario
+   Given I should be forced to the login screenx
+   When I click log out
+   Then Worth does some new action
