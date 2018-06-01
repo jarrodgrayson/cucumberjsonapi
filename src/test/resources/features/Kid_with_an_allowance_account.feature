@@ -10,4 +10,4 @@ As a kid, I want to check the balance of my account, so that I buy more cool stu
   Scenario: This is my new scenario for Donna
     Given i am a kid with an account
     When I click log out
-    Then I am adding a totally new step!
+    Then I am adding a totally new step!!
