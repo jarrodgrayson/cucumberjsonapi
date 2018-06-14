@@ -20,3 +20,8 @@ Feature:NavigateToUserProfilePage
    Given I should be forced to the login screenx
    When I click log out
    Then Worth does some new action!
+   
+ Scenario: Existing users should be able to delete their profile
+   Given I am a kid who has an account
+   When I go to delete my profile
+   Then My profile should be deleted
