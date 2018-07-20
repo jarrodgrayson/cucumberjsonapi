@@ -8,3 +8,4 @@ Feature:This is my new Feature File!
     Then This should happen when I do that
     
   Scenario: This new thing should happen this way
+    Given I make a change in VSTS
