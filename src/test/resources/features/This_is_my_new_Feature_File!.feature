@@ -9,3 +9,4 @@ Feature:This is my new Feature File!
     
   Scenario: This new thing should happen this way
     Given I make a change in VSTS
+    When I also do this!
