@@ -21,3 +21,8 @@ Feature: Kids spending money
     Given I click log out
     When I do something new
     Then this should happen automatically
+    
+  Scenario: This is my new Anthem Scenario
+    Given I should be forced to the login screenx
+    When I do this new cool thing that has never been done!
+    Then We should all be excited!
