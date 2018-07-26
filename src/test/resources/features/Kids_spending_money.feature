@@ -26,3 +26,8 @@ Feature: Kids spending money
     Given I should be forced to the login screenx
     When I do this new cool thing that has never been done!
     Then We should all be excited!
+    
+  Scenario: This is my new Broadsign Scenario
+    Given I should be forced to the login screenx
+    When I should be able to do this cool new thing!!!! Yay!
+    Then This should happen automatically
