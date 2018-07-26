@@ -31,3 +31,5 @@ Feature: Kids spending money
     Given I should be forced to the login screenx
     When I should be able to do this cool new thing!!!! Yay!
     Then This should happen automatically
+    
+  Scenario: Cool!
