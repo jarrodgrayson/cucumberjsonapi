@@ -25,3 +25,7 @@ Feature:NavigateToUserProfilePage
    Given I am a kid who has an account
    When I go to delete my profile
    Then My profile should be deleted
+   
+ Scenario: New Test TEst
+   Given I click log out
+   When This new thing
