@@ -11,8 +11,3 @@ Feature: Parent gives kid money
     Given Parent is logged in and has children
     When Parent selects child
     Then Parent should be able to active transfer ability to child
-
-  Scenario: AJ's New Scenario
-    Given I click log out
-    When I do something New
-    Then I do this cool thing
