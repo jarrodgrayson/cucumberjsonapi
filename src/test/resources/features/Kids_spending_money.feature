@@ -11,25 +11,3 @@ Feature: Kids spending money
     Given I am a logged in kid with an account balance greater than 0
     When kid logs in
     Then I should have a Spend Money Button
-    
-  Scenario: This is my new scenario for Pam
-    Given that I am a logged in parent
-    When I do something new
-    Then This cool new thing should happen
-    
-  Scenario: This is my coolest newest scenario
-    Given I click log out
-    When I do something new
-    Then this should happen automatically
-    
-  Scenario: This is my new Anthem Scenario
-    Given I should be forced to the login screenx
-    When I do this new cool thing that has never been done!
-    Then We should all be excited!
-    
-  Scenario: This is my new Broadsign Scenario
-    Given I should be forced to the login screenx
-    When I should be able to do this cool new thing!!!! Yay!
-    Then This should happen automatically
-    
-  Scenario: Cool!
